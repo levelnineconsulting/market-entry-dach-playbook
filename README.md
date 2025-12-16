@@ -23,3 +23,8 @@
 - Use **03** as a launch and continuation gate
 
 If any step fails, do not proceed.
+
+
+Maintained by Stephan Moschinsky  
+→ https://github.com/stephanmoschinsky  
+→ https://www.level9-consulting.com
