@@ -25,6 +25,6 @@
 If any step fails, do not proceed.
 
 
-Maintained by Stephan Moschinsky  
-→ https://github.com/stephanmoschinsky  
+Maintained by Level Nine Consulting
+→ https://github.com/levelnineconsulting
 → https://www.level9-consulting.com
