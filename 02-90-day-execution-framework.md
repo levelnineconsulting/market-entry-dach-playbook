@@ -18,7 +18,7 @@ Before anything moves, these conditions must be true.
 - Single accountable owner for market entry
 - Written execution mandate from HQ
 - Clear authority to make commercial decisions
-- Defined success criteria for 90 days
+- Clearly defined KPIs and success criteria that align with operational realities.
 - Explicit kill criteria if traction does not materialise
 
 If this phase is skipped, execution will stall later.
@@ -53,7 +53,7 @@ Focus areas:
 - Real sales cycles, not pilot theatre
 - Pricing tested in live situations
 - Objection patterns documented
-- Internal response speed measured
+- Internal response time measured to ensure rapid decision-making and action.
 
 What matters:
 - Time-to-decision
@@ -70,7 +70,7 @@ Only signal collection.
 Objective: Decide, not hope.
 
 Key questions:
-- Is there repeatable demand?
+- Is the demand repeatable and scalable with minimal resource investment?
 - Can deals close without escalation?
 - Does the org support speed or slow it down?
 - Is local ownership real or symbolic?
